@@ -1,3 +1,8 @@
+
+
+Here's your updated `README.md` with **Astra** added as the **first featured project** (since it's your 🏆 1st Prize winner — deserves the top spot):
+
+```markdown
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -49,7 +54,7 @@ interests:
   - 📸 Photography
   - ⚽ Sports
   - ✈️ Travelling
-hackathons: 6 participated | 1 win 🏆
+hackathons: 6 participated | 2 wins 🏆
 currently_learning:
   - RAG Pipelines
   - LLMs & Agentic AI
@@ -70,6 +75,45 @@ fun_fact: >
 <div align="center">
 <table>
 <tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 Astra — AI Women Safety Intelligence</h3>
+
+<div align="center">
+
+🏆 **1st Prize — VI-Hack Hackathon @ Vignan Institute of Management and Technology for Women**
+
+<br/>
+
+**Full-stack AI-powered safety platform** — safe route planning, live GPS tracking with deviation detection, SilentShield emergency system, AI-generated FIR reports, and community safety intelligence forum.
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square)
+![OpenRoute](https://img.shields.io/badge/OpenRouteService-4285F4?style=flat-square)
+
+<br/>
+
+<details>
+<summary><b>✨ Key Features</b></summary>
+
+- 🛣️ Risk-based route recommendation (crime data, police proximity, isolation index, time-of-day)
+- 📍 Live GPS tracking + deviation detection + dynamic risk scoring
+- 🔇 SilentShield — trigger emergency alerts silently, capture location & notify guardians
+- 📋 AI-powered FIR generation with evidence (audio, location, timestamps)
+- 👥 Community safety forum for crowdsourced unsafe area reporting
+- 🔔 FCM push notifications for real-time alerts
+
+</details>
+
+</div>
+
+</td>
 <td width="50%" valign="top">
 
 <h3 align="center">🧠 SkillflowAI</h3>
@@ -93,6 +137,13 @@ fun_fact: >
 </div>
 
 </td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🩸 Blood Bridge</h3>
@@ -115,18 +166,15 @@ fun_fact: >
 </div>
 
 </td>
-</tr>
-</table>
-</div>
+<td width="50%" valign="top">
+
+<h3 align="center">🏥 Medical Chatbot (RAG) 🥉</h3>
 
 <div align="center">
-<table>
-<tr>
-<td width="100%" valign="top">
 
-<h3 align="center">🏥 Medical Chatbot (RAG) — <i>Hack-a-Cure @ VIT Chennai</i> 🥉 3rd Place</h3>
+*Hack-a-Cure @ VIT Chennai — 3rd Place*
 
-<div align="center">
+<br/>
 
 **Healthcare chatbot powered by Retrieval-Augmented Generation (RAG)** — retrieves from structured medical datasets and generates context-aware, reliable responses. Integrated LLMs with a retrieval pipeline to improve accuracy under real-time constraints.
 
@@ -159,7 +207,7 @@ fun_fact: >
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&perline=3" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=3" />
 
 </td>
 <td align="center" width="25%">
@@ -177,7 +225,7 @@ fun_fact: >
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql&perline=2" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,mongodb,mysql&perline=2" />
 
 </td>
 <td align="center" width="25%">
@@ -224,6 +272,7 @@ fun_fact: >
 | <img src="https://img.shields.io/badge/-7c3aed?style=flat-square" width="12"/> | **Generative AI Tools** | NxT Wave |
 | <img src="https://img.shields.io/badge/-7c3aed?style=flat-square" width="12"/> | **Salesforce Certified Agentforce Specialist** | Salesforce |
 | 🥉 | **Hack-a-Cure Hackathon — 3rd Place** | VIT Chennai |
+| 🏆 | **VI-Hack Hackathon — 1st Place (Astra)** | Vignan Institute of Mgmt & Tech for Women |
 
 </div>
 
@@ -237,13 +286,15 @@ fun_fact: >
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  🏆  Hack-a-Cure Hackathon        → VIT Chennai        (Sep 2025)  🥉 ║
-║  🔥  Spacathon'25                  → St. Peter's Engg.  (Sep 2025)     ║
-║  💡  Epitome'25                    → GRIET Hyderabad    (Feb 2025)     ║
-║  🚀  TechXcelerate 2024            → BITS Pilani Hyd.   (Dec 2024)     ║
-║  📊  Datanyx'24                    → IEEE SMC MJCET     (Dec 2024)     ║
-║  🎨  WebWars UI Design             → CMR College        (Feb 2024)     ║
-║  ⚽  AIU Football Championship     → Represented CMR    (2023 & 2025)  ║
+║  🏆  VI-Hack Hackathon             → Vignan Institute    (Sep 2025) 🥇 ║
+║      🚀 Astra — AI Women Safety Intelligence Platform                  ║
+║  🥉  Hack-a-Cure Hackathon         → VIT Chennai        (Sep 2025)     ║
+║  🔥  Spacathon'25                   → St. Peter's Engg.  (Sep 2025)     ║
+║  💡  Epitome'25                     → GRIET Hyderabad    (Feb 2025)     ║
+║  🚀  TechXcelerate 2024             → BITS Pilani Hyd.   (Dec 2024)     ║
+║  📊  Datanyx'24                     → IEEE SMC MJCET     (Dec 2024)     ║
+║  🎨  WebWars UI Design              → CMR College        (Feb 2024)     ║
+║  ⚽  AIU Football Championship      → Represented CMR    (2023 & 2025)  ║
 ║                                                                        ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -315,3 +366,22 @@ fun_fact: >
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
+```
+
+### ✅ What I Changed / Added:
+
+| Section | Change |
+|---------|--------|
+| 🚀 **Featured Projects** | 🥇 **Astra placed FIRST** as top-left card (1st prize deserves prominence) — with expandable `<details>` for key features |
+| 🩸 Blood Bridge & 🏥 RAG | Moved to second row (2-card layout) |
+| 📋 About Me YAML | `hackathons: 6 participated → 2 wins 🏆` |
+| 🛠️ Tech Stack | Added **TypeScript**, **FastAPI**, **MongoDB** icons |
+| 🏅 Certifications | Added **VI-Hack 1st Place (Astra)** row |
+| ⚡ Hackathons box | Added VI-Hack entry at top with Astra description |
+| 🎨 Design | Consistent purple theme (`7c3aed`, `a78bfa`) |
+
+> 💡 **Optional**: Add a GitHub repo link & Live Demo badge to Astra card if deployed! Like:
+> ```
+> [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-astra.app-7c3aed?style=for-the-badge)](https://astra-demo.vercel.app)
+> [![GitHub](https://img.shields.io/badge/Code-Repository-7c3aed?style=for-the-badge&logo=github)](https://github.com/Scizor007/astra)
+> ```
